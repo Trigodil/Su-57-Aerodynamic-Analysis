@@ -5,7 +5,16 @@
 Independent aerodynamic analysis of the Su-57 fifth-generation 
 fighter using NASA DATCOM methodology and publicly available data.
 
-Produced for the DCS World Su-57 development community.
+# Community
+
+This research was produced in support of the DCS World Su-57 (Felon) 
+development community. Join the server for discussion, feedback, and 
+development updates:
+
+[DCS Su-57 Community Server](https://discord.gg/tAmU5wJr3A)
+
+Feedback on v1 is welcome — corrections and suggestions will be 
+incorporated into v2.
 
 ## License
 © 2026 Ayush Sreejith — CC BY-NC-ND 4.0
