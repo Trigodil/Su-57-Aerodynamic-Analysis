@@ -5,6 +5,10 @@
 Independent aerodynamic analysis of the Su-57 fifth-generation 
 fighter using NASA DATCOM methodology and publicly available data.
 
+
+Note:AI tools (Claude, Anthropic) were used for latex syntax and proffessional formatting, all aero calculation and DATCOM METHODOLOGY were independently derived by the author.
+
+
 # Community
 
 This research was produced in support of the DCS World Su-57 (Felon) 
